@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demolv</string>
+
+    <string name="txtTen">Tên</string>
+    <string name="txtMoTa">MoTa</string>
+    <string name="txtGia">Giá</string>
+</resources>
